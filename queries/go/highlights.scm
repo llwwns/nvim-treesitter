@@ -5,15 +5,22 @@
 ; Identifiers
 
 (type_identifier) @type
-(type_spec name: (type_identifier) @type.definition)
+(type_spec name: (type_identifier) @type.definition @spell)
 (field_identifier) @property
 (identifier) @variable
 (package_identifier) @namespace
+(short_var_declaration 
+  left: (expression_list
+          (identifier) @spell)) 
+(const_spec
+  name: (identifier) @spell)
+(var_spec 
+  name: (identifier) @spell)
 
-(parameter_declaration (identifier) @parameter)
-(variadic_parameter_declaration (identifier) @parameter)
+(parameter_declaration (identifier) @parameter @spell)
+(variadic_parameter_declaration (identifier) @parameter @spell)
 
-(label_name) @label
+(label_name) @label @spell
 
 ((identifier) @constant
  (#eq? @constant "_"))
@@ -33,13 +40,13 @@
 ; Function definitions
 
 (function_declaration
-  name: (identifier) @function)
+  name: (identifier) @function @spell)
 
 (method_declaration
-  name: (field_identifier) @method)
+  name: (field_identifier) @method @spell)
 
 (method_spec 
-  name: (field_identifier) @method) 
+  name: (field_identifier) @method @spell) 
 
 ; Operators
 
@@ -202,7 +209,7 @@
 
 (keyed_element
   . (literal_element (identifier) @field))
-(field_declaration name: (field_identifier) @field)
+(field_declaration name: (field_identifier) @field @spell)
 
 (comment) @comment @spell
 

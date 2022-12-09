@@ -1,5 +1,12 @@
 ; inherits: ecma
 
+(interface_declaration
+      name: (type_identifier) @spell)
+(class_declaration
+  name: (type_identifier) @spell)
+(public_field_definition
+        name: (property_identifier) @spell)
+
 [
   "declare"
   "enum"

@@ -9,14 +9,16 @@
 ; Properties
 ;-----------
 
+(property_signature
+        name: (property_identifier) @spell)
+
 (property_identifier) @property
 (shorthand_property_identifier) @property
 (private_property_identifier) @property
 
-(variable_declarator
-  name: (object_pattern
-    (shorthand_property_identifier_pattern))) @variable
 
+(variable_declarator
+  name: (identifier) @spell)
 ; Special identifiers
 ;--------------------
 
