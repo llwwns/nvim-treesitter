@@ -18,6 +18,7 @@
   "namespace"
   "override"
   "satisfies"
+  "module"
 ] @keyword
 
 (as_expression "as" @keyword)

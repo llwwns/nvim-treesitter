@@ -63,7 +63,7 @@
     "revision": "ea30a05d0f0446a96d8b096ad11828ad4f8ad849"
   },
   "diff": {
-    "revision": "330eb648bbc257b4e91621e82a85372be7dde27a"
+    "revision": "1d63cd49529ef3153393cf8f620718b274bba715"
   },
   "dockerfile": {
     "revision": "09e316dba307b869831e9399b11a83bbf0f2a24b"
@@ -198,10 +198,10 @@
     "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5"
   },
   "jsonnet": {
-    "revision": "0475a5017ad7dc84845d1d33187f2321abcb261d"
+    "revision": "768a384989391237c6d55ff3d878a0d1e0d2b4fa"
   },
   "julia": {
-    "revision": "91ba1c3c9b50f388d4b67518c04bc9a003ed3475"
+    "revision": "36b099e9ea577f64ba53323115028dadd2991d2c"
   },
   "kotlin": {
     "revision": "b953dbdd05257fcb2b64bc4d9c1578fac12e3c28"
@@ -240,7 +240,7 @@
     "revision": "d787c66276e7e95899230539f556e8b83ee16f6d"
   },
   "meson": {
-    "revision": "153d22588fb5c1eee16a165a084f9ea30f29d941"
+    "revision": "6c5f7ef944f9c6ae8a0fc28b9071a4b493652238"
   },
   "nickel": {
     "revision": "9d83db400b6c11260b9106f131f93ddda8131933"
@@ -255,10 +255,10 @@
     "revision": "8ad20059c6f128861c4506fff866150ffee1d6f4"
   },
   "ocaml": {
-    "revision": "cc26b1ef111100f26a137bcbcd39fd4e35be9a59"
+    "revision": "de07323343946c32759933cb3b7c78e821098cad"
   },
   "ocaml_interface": {
-    "revision": "cc26b1ef111100f26a137bcbcd39fd4e35be9a59"
+    "revision": "de07323343946c32759933cb3b7c78e821098cad"
   },
   "ocamllex": {
     "revision": "ac1d5957e719d49bd6acd27439b79843e4daf8ed"
@@ -273,7 +273,7 @@
     "revision": "749d26fe13fb131b92e6515416096e572575b981"
   },
   "php": {
-    "revision": "ab2e72179ceb8bb0b249c8ac9162a148e911b3dc"
+    "revision": "680244ac3a8092154125e91145fe8d631cd4583b"
   },
   "phpdoc": {
     "revision": "2f4d16c861b5a454b577d057f247f9902d7b47f5"
@@ -333,7 +333,7 @@
     "revision": "140c96cf398693189d4e50f76d19ddfcd8a018f8"
   },
   "scheme": {
-    "revision": "bdcd2c8496701153506a9e3e1b76dfed852873ba"
+    "revision": "16bdcf0495865e17ae5b995257458e31e8b7f450"
   },
   "scss": {
     "revision": "c478c6868648eff49eb04a4df90d703dc45b312a"
@@ -348,7 +348,7 @@
     "revision": "05f949d3c1c15e3261473a244d3ce87777374dec"
   },
   "sql": {
-    "revision": "54b363b87c22787f9dcfabb5d8aa221cb65ace42"
+    "revision": "a4dd131eeb9fe7f3c9c2ca0f506f6d58d9986a97"
   },
   "supercollider": {
     "revision": "90c6d9f777d2b8c4ce497c48b5f270a44bcf3ea0"
@@ -360,7 +360,7 @@
     "revision": "52e122ae68b316d3aa960a0a422d3645ba717f42"
   },
   "swift": {
-    "revision": "cff1c9a62df89e8900d53ff48bc42862e6522dcf"
+    "revision": "693411cb5a1167311ccd84708348281630562726"
   },
   "sxhkdrc": {
     "revision": "440d5f913d9465c9c776a1bd92334d32febcf065"
@@ -372,7 +372,7 @@
     "revision": "a233ebe360a73a92c50978e5c4e9e471bc59ff42"
   },
   "tlaplus": {
-    "revision": "deaf0e5c573ad4e2bbfc9a29abb7b6dcb572556e"
+    "revision": "27e6d238a5708b0490f43351f6e0baeaab4c9c1f"
   },
   "todotxt": {
     "revision": "0207f6a4ab6aeafc4b091914d31d8235049a2578"
