@@ -6,7 +6,7 @@
     "revision": "c473c09f23b13d9404ec5208fad3eddea89d70f8"
   },
   "astro": {
-    "revision": "947e93089e60c66e681eba22283f4037841451e7"
+    "revision": "22697b0e2413464b7abaea9269c5e83a59e39a83"
   },
   "awk": {
     "revision": "e559793754c60c2cdf00cbb0409842d75f0a41dc"
@@ -27,7 +27,7 @@
     "revision": "7175a6dd5fc1cee660dce6fe23f6043d75af424a"
   },
   "c_sharp": {
-    "revision": "3ef3f7f99e16e528e6689eae44dff35150993307"
+    "revision": "d83b3c661db34fde4dcd80e79ce1653d4524998d"
   },
   "clojure": {
     "revision": "8c23e0ec078af461ccad43fffbbfc204aa6bc238"
@@ -159,7 +159,7 @@
     "revision": "2e1348c3cf2c9323e87c2744796cf3f3868aa82a"
   },
   "help": {
-    "revision": "ce20f13c3f12506185754888feaae3f2ad54c287"
+    "revision": "61c75058299f3d1cf565697e4073d7b2cc6a6d6c"
   },
   "hjson": {
     "revision": "02fa3b79b3ff9a296066da6277adfc3f26cbc9e0"
@@ -219,7 +219,7 @@
     "revision": "e9948edc41e9e5869af99dddb2b5ff5cc5581af6"
   },
   "lua": {
-    "revision": "f5e84ffc2b06858401e0d2edf5dce009efbe34b3"
+    "revision": "0fc89962b7ff5c7d676b8592c1cbce1ceaa806fd"
   },
   "m68k": {
     "revision": "d097b123f19c6eaba2bf181c05420d88b9fc489d"
@@ -273,7 +273,7 @@
     "revision": "749d26fe13fb131b92e6515416096e572575b981"
   },
   "php": {
-    "revision": "680244ac3a8092154125e91145fe8d631cd4583b"
+    "revision": "47dd3532df8204a444dd6eb042135f1e7964f9cb"
   },
   "phpdoc": {
     "revision": "2f4d16c861b5a454b577d057f247f9902d7b47f5"
@@ -348,7 +348,7 @@
     "revision": "05f949d3c1c15e3261473a244d3ce87777374dec"
   },
   "sql": {
-    "revision": "a4dd131eeb9fe7f3c9c2ca0f506f6d58d9986a97"
+    "revision": "8dc7fa0e51145f0312eedbb5aff9945bd967fb8f"
   },
   "supercollider": {
     "revision": "90c6d9f777d2b8c4ce497c48b5f270a44bcf3ea0"
